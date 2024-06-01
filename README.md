@@ -1,2 +1,2 @@
-# Pseudocodigo
-Ejercicios de pseudocodigo
+# Pseudocodigo 👩‍💻
+Ejercicios de pseudocodigo 
